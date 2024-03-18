@@ -1,4 +1,4 @@
-// Programa, em C para conversão de decimal para binário
+// Programa, em C, para conversão de decimal para binário
 
 #include <stdio.h>
 
