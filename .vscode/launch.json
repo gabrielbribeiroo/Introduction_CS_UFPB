@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/gabri/OneDrive/Área de Trabalho/Gabriel/UFPB/CC - P1 - 2023.2/Intro CC/Programas_Introducao_CC",
+      "program": "c:/Users/gabri/OneDrive/Área de Trabalho/Gabriel/UFPB/CC - P1 - 2023.2/Intro CC/Programas_Introducao_CC/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
